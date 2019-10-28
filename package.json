@@ -1,8 +1,8 @@
 {
   "name": "signagelive-widget-base",
-  "cleanname": "Adbay Signage Live Widget Base",
+  "cleanname": "Adbay Birthdays",
   "version": "1.0.0",
-  "description": "Adbay Base Widget for Signage Live",
+  "description": "Adbay Birthdays Widget for Signage Live",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
