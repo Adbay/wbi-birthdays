@@ -1,0 +1,14 @@
+section.birthday-section{
+    padding: 5rem;
+    .grid-x.birthday-grid{
+       h1{
+        font-weight: bold;
+        font-size: 5rem;
+        font-family: "Open Sans", sans-serif;
+        margin-bottom: 2rem;
+       }
+    }
+    #birthday-list{
+        font-weight: bold;
+    }
+}

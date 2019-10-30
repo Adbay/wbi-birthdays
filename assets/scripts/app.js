@@ -9,7 +9,7 @@ $(function() {
       var html = "";
       for (var i = 0; i < data.length; i++) {
         if (data[i][0] == "") break;
-        html += "<span>" + data[i][0] + " " + data[i][1] + "</span>";
+        html += "<div class=\"small-6 cell text-right\">" + data[i][0] + "</div> " + "<div class=\"small-6 cell\">" + data[i][1] + "</div>";
       }
       $("#birthday-list").html(html);
     });
