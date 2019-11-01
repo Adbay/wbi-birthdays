@@ -1,5 +1,5 @@
 {
-  "name": "signagelive-widget-base",
+  "name": "adbay-birthdays-widget",
   "cleanname": "Adbay Birthdays",
   "version": "1.0.0",
   "description": "Adbay Birthdays Widget for Signage Live",
@@ -40,7 +40,8 @@
     "scripts": "gulp scripts",
     "images": "gulp images",
     "fonts": "gulp fonts",
-    "watch": "gulp watchDir"
+    "watch": "gulp watchDir",
+    "start": "gulp watchDir"
   },
   "author": "Bradley Erickson, Adbay, Inc.",
   "license": "UNLICENSED",
